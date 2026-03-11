@@ -35,6 +35,16 @@ border-radius:6px;
 cursor:pointer;
 }
 
+.donate2{
+background:#0b3b78;
+color:white;
+border:none;
+padding:10px 18px;
+border-radius:6px;
+cursor:pointer;
+padding-bottom: 18px;
+}
+
 .container{
 max-width:1000px;
 margin:40px auto;
